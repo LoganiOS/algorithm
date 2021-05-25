@@ -8,3 +8,5 @@ Data Structure &amp; algorithm in Swift 😎
 **[최대공약수와 최소공배수](https://github.com/LoganiOS/algorithm/blob/main/최대공약수와%20최소공배수.md)**
 
 **[소수](https://github.com/LoganiOS/algorithm/blob/main/소수.md)**
+
+**[브루트 포스](https://github.com/LoganiOS/algorithm/blob/main/브루트%포스.md)**
