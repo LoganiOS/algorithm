@@ -10,3 +10,6 @@ Data Structure &amp; algorithm in Swift 😎
 **[소수](https://github.com/LoganiOS/algorithm/blob/main/소수.md)**
 
 **[브루트 포스](https://github.com/LoganiOS/algorithm/blob/main/브루트%20포스.md)**
+
+**[순열과 조합](https://github.com/LoganiOS/algorithm/blob/main/순열과%20조합.md)**
+
